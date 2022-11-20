@@ -2,3 +2,6 @@ server:
   port: 8092
 api:
   sandboxMode: true
+springdoc:
+  swagger-ui:
+    path: /docs.html
